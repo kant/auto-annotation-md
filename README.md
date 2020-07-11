@@ -25,11 +25,11 @@ The abbreviation and name are unique identifiers and they are simply for human c
 
 ## What's the philosophy?
  
-We constructed the definitions so that they apply globally. That is, each label was intended to mark any cell in any part of the body that conforms to the definition. Considering the vast number of genes available and the different combinations of those, different definitions for the same label could be possible. Here we favored definitions that consisted of a short list of genes, of which as many as possible are well known genes  whose function is described in literature. The reasoning behind that being that those are most robust as they tend to remain valid when applied to different datasets.
+We constructed the definitions so that they apply globally. That is, each label was intended to mark any cell in any part of the body that conforms to the definition. Considering the vast number of genes available and the different combinations of those, different definitions for the same label could be possible. Here we favored definitions that consisted of a short list of genes, of which as many as possible are well known genes whose function is described in literature. The reasoning behind that being that those are most robust as they tend to remain valid when applied to different datasets.
 
 ## How can I label cell types with auto-annotations?
 
-The auto-annotation labels can be applied downstream to any statistical text that determines whether a gene is robustly expressed in a pool of cells or not in a dihcotomic way. In La Manno et al. 2020 for example we used the Bayesian Trinarization procedure implemented in cytograph. 
+The auto-annotation labels can be applied downstream to any statistical text that determines whether a gene is robustly expressed in a pool of cells or not in a dichotomic way. In La Manno et al. 2020 for example we used the Bayesian Trinarization procedure implemented in cytograph. 
 
 # Autoannotation snapshot
 
